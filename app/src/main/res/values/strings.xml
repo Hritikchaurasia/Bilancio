@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bilancio</string>
+    <string name="SPLASH_SCREEN_KEY1">SPLASH_SCREEN_KEY1</string>
+    <string name="empty">No Data! Please enter some transactions</string>
+    <string name="TOTALBALANCE">TOTAL BALANCE</string>
+    <string name="RecentTransactions">Recent Transactions</string>
+    <string name="NODATA">No data Found! Please add some data</string>
+    <string name="ERROROCCUR">Error occur!</string>
+    <string name="allincome">All Incomes</string>
+    <string name="allexpenses">All Expenses</string>
+</resources>

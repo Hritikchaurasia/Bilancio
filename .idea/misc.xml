@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_arrow_up.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_arrowup.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_entertainment.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_food.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_housing.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_insurance.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_medical.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_others.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_personal_spending.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_saving.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_transport.xml" value="0.2703125" />
+        <entry key="..\:/Users/Hritik/Desktop/Hritik/practice/bilancio/app/src/main/res/drawable/ic_utilities.xml" value="0.3203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
